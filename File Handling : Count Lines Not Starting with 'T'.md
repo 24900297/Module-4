@@ -34,5 +34,3 @@ def read_file(file_path):
 
 ## Result
 Thus the Python function to find and replace a word in a file is executed successfully.
-
-## Result
